@@ -66,7 +66,7 @@ p {
     background-position: center;
 }
 
-/* informational secetion styles start */
+/* informational section styles start */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -83,6 +83,7 @@ p {
     margin-left: 20px;
 }
 
+/*consolidated code here */
 .content-container {
     margin-bottom: 20px;
     padding: 50px;
@@ -96,23 +97,14 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*consolidated code here */
+/* informational section styles end */
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* informational secetion styles end */
-
-/* benefits secetion styles begin */
+/* benefits section styles begin */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -171,7 +163,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* benefit secetion styles end */
+/* benefit section styles end */
 
 /* footer */
 footer {
