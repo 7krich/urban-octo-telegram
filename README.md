@@ -23,3 +23,9 @@ the css code needed.
 
 ACTION: Removed ".online-reputation-management h2" tags and updated them to ".content h2" to style the h2 elements.
 
+ISSUE: benefit lead brand and cost classes are all the same. If they were different they should be id's, but since they are
+the same I am switching them all to the same class name. This will properly use the class selector and reduce css code. This allows
+me to consolidate all the css code for the same tags with the child elements h3 and img. Now all 3 css tags for benefit article
+are articulated in css with just 3 selctors instead of 9.
+
+ACTION: update names of these classes to be synonymous as "benefit-article". Delete repetitive, un-needed code in style sheet.
