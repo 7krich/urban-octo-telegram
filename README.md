@@ -29,3 +29,7 @@ me to consolidate all the css code for the same tags with the child elements h3 
 are articulated in css with just 3 selctors instead of 9.
 
 ACTION: update names of these classes to be synonymous as "benefit-article". Delete repetitive, un-needed code in style sheet.
+
+ISSUE: Removal of id's above created issue where links were not working. The href in the header had nothing to link to.
+
+ACTION: id's added back for search engine optimization, online reputation management and social media marketing. Links working again.
