@@ -19,9 +19,9 @@ Made by Kyle Richnafsky
 
 Sequential order (to best of recolection)...
 
-ISSUE: Header formatting required classes. It didn't need a class, header can simply be listed as <header>
+ISSUE: Header formatting required classes. It didn't need a class, header can simply be listed as header
 
-ACTION: flipped class="header" to <header> to fix semantics
+ACTION: flipped class="header" to header to fix semantics
 
 ISSUE: title did not apply to the webpage.
 
@@ -59,7 +59,7 @@ ISSUE: Removal of id's above created issue where links were not working. The hre
 
 ACTION: id's added back for search engine optimization, online reputation management and social media marketing. Links working again.
 
-ISSUE: After doing addiitonal research I realized the <article> html elements I used did not fit the purpose.
+ISSUE: After doing addiitonal research I realized the article html elements I used did not fit the purpose.
 
-ACTION: Changed <article> tags to <div> and kept necessary class tags.
+ACTION: Changed article tags to div>and kept necessary class tags.
 
