@@ -65,6 +65,6 @@ ACTION: Changed <article> tags to <div> and kept necessary class tags.
 
 # Screenshots
 
-![Horiseon](./assets/images/horiseaon-screenshot-1.jpg)
-![Horiseon](./assets/images/horiseaon-screenshot-2.jpg)
-![Horiseon](./assets/images/horiseaon-screenshot-3.jpg)
+![Horiseon](assets/images/horiseaon-screenshot-1.jpg)
+![Horiseon](assets/images/horiseaon-screenshot-2.jpg)
+![Horiseon](assets/images/horiseaon-screenshot-3.jpg)
