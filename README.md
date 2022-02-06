@@ -18,6 +18,10 @@ ISSUE: Search engine optimization and index page link not working.
 
 ACTION: Corrected id to link to the search engine optimization article so when clicked, page skips down to seciton. Also updated index link to bring used back to home page in event additional pages are added later.
 
+ISSUE: No alt tags included for photos. Vision impaired users would have issues reading the webpage.
+
+ACTION: alt tag added to photos with concise description.
+
 ISSUE: During adding comments I realized the CSS was ordered in a way that mixed our informational seciton and benefits section. This was only clerical, but it was easier to break these styles up separately so they are easier to view and debug later on.
 
 ACTION: Moved all benefit section element after the information section elemnts in style.css
