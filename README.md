@@ -1,7 +1,24 @@
 # Code Refactor Starter Code
-Notes
 
-Previous changes
+# Horiseon
+
+##Purpose
+Update source code to follow accessibility standards, improves search engine optimization and improve overall code efficiency and clarity by utitlizing semantic html elements and reducing repetative/re-written css code.
+
+##Built With
+* HTML
+* CSS
+
+#Website
+https://7krich.github.io/urban-octo-telegram/Develop/index.html
+
+#Contribution
+Made by Kyle Richnafsky
+
+# Updates made
+
+Sequential order (to best of recolection)...
+
 ISSUE: Header formatting required classes. It didn't need a class, header can simply be listed as <header>
 
 ACTION: flipped class="header" to <header> to fix semantics
@@ -41,3 +58,13 @@ ACTION: update names of these classes to be synonymous as "benefit-article". Del
 ISSUE: Removal of id's above created issue where links were not working. The href in the header had nothing to link to.
 
 ACTION: id's added back for search engine optimization, online reputation management and social media marketing. Links working again.
+
+ISSUE: After doing addiitonal research I realized the <article> html elements I used did not fit the purpose.
+
+ACTION: Changed <article> tags to <div> and kept necessary class tags.
+
+# Screenshots
+
+![Horiseon](./assets/images/horiseaon-screenshot-1.jpg)
+![Horiseon](./assets/images/horiseaon-screenshot-2.jpg)
+![Horiseon](./assets/images/horiseaon-screenshot-3.jpg)
